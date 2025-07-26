@@ -32,7 +32,7 @@ This example application demonstrates:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/usagey/usagey-nextjs-approuter-example.git
+git clone https://github.com/8thwanda/usagey-nextjs-approuter-example.git
 cd usagey-nextjs-approuter-example
 ```
 
